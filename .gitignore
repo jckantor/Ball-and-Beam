@@ -1,0 +1,11 @@
+
+#Ipython Notebook
+.ipynb_checkpoints
+
+.DS_Store
+
+# texpad
+.texpadtmp/
+*.aux
+*.log
+
