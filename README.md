@@ -3,7 +3,7 @@ Balancing a Ball on a Beam with Proportional-Derivative Control
 
 *Balancing a Ball on a Beam with Proportional-Derivative Control* is an interactive demonstration of feedback control for a ball and beam system. It is intended for use as lecture demonstration of proportional and proportional-derivative control, and to reinforce control concepts through homework exercises. It was originally written in Matlab in 2001, and revised in 2011 for the then-current version of Matlab, and rewritten as a Jupyter/Python notebook in 2016.
 
-<img align="center" src="ballbeam.png" alt="Ball and Beam Screenshot" title="Ball and Beam" width="320">
+<img align="center" src="ballbeam.png" alt="Ball and Beam Screenshot" title="Ball and Beam" width="640">
 
 ## Installation
 
