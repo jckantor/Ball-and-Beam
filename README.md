@@ -5,12 +5,19 @@ Balancing a Ball on a Beam with Proportional-Derivative Control
 
 <img align="center" src="ballbeam.png" alt="Ball and Beam Screenshot" title="Ball and Beam" width="640">
 
-## Installation
+## Running
 
-The demonstration is self-contained in a single Jupyter notebook. If you have Jupyter/Python installed on your computer, you can download by opening the notebook on github and clicking the download icon.
-
-Alternatively, you can open and run the notebook directly from a browser window by clicking on this button:
+You can open and run the notebook directly from a browser window by clicking on this button:
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/jckantor/Ball-and-Beam)
 
+This will open teh notebook in your browswer with the notebook calculations done in the 'cloud'.  This is the most convenient way to use the notebook without installing anything on your own computer, tablet, or phone.
+
+## Downloading
+
+The demonstration is self-contained in a single Jupyter notebook. If you have Jupyter/Python installed on your computer, you can download by opening the notebook on github and clicking the download icon.
+
 Alternatively, you can fork or clone the whole project from this [github repository](http://jckantor.github.io/Ball-and-Beam/).
+
+
+
