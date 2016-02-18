@@ -1,9 +1,9 @@
-Ball and Beam Control Demonstration
-===================================
+Balancing a Ball on a Beam with Proportional-Derivative Control
+===============================================================
 
-*Ball and Beam Control Demonstration* is an interactive demonstration of feedback control for a ball and beam system. It was written in Matlab to demonstrate proportional and proportional-derivative control in the classroom and for homework exercises. It was originally written in 2001, and revised in 2011 for the then-current version of Matlab. The github repository was created in 2015.
+*Balancing a Ball on a Beam with Proportional-Derivative Control* is an interactive demonstration of feedback control for a ball and beam system. It is intended for use as lecture demonstration of proportional and proportional-derivative control, and to reinforce control concepts through homework exercises. It was originally written in Matlab in 2001, and revised in 2011 for the then-current version of Matlab, and rewritten as a Jupyter/Python notebook in 2016.
 
-<img align="center" src="https://raw.githubusercontent.com/jckantor/Ball-and-Beam-Control-Demonstration/master/ballbeam.png" alt="Ball and Beam Screenshot" title="Ball and Beam" width="320">
+<img align="center" src="ballbeam.png" alt="Ball and Beam Screenshot" title="Ball and Beam" width="320">
 
 ## Installation
 
