@@ -11,7 +11,7 @@ You can open and run the notebook directly from a browser window by clicking on 
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/jckantor/Ball-and-Beam)
 
-This will open teh notebook in your browswer with the notebook calculations done in the 'cloud'.  This is the most convenient way to use the notebook without installing anything on your own computer, tablet, or phone.
+This will open the notebook in your browswer with calculations done in the 'cloud'.  This is the most convenient way to use the notebook without installing anything on your own computer, tablet, or phone.
 
 ## Downloading
 
