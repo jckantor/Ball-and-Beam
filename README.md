@@ -18,6 +18,3 @@ This will open the notebook in your browswer with calculations done in the 'clou
 The demonstration is self-contained in a single Jupyter notebook. If you have Jupyter/Python installed on your computer, you can download by opening the notebook on github and clicking the download icon.
 
 Alternatively, you can fork or clone the whole project from this [github repository](http://jckantor.github.io/Ball-and-Beam/).
-
-
-
